@@ -1,0 +1,7 @@
+streamlit
+pandas==1.2.4 
+matplotlib==3.3.4
+pytrends==4.7.3
+datetime
+pytz==2021.1
+seaborn==0.11.1
